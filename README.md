@@ -1,4 +1,4 @@
-# Bioinformatics Resources [![GitHub Super-Linter](https://github.com/PrabhatBara/bioinformatics_resources/workflow/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter) [![Generate TOC](https://github.com/PrabhatBara/bioinformatics_resources/actions/workflows/toc.yml/badge.svg)](https://github.com/PrabhatBara/bioinformatics_resources/actions/workflows/toc.yml)
+# Bioinformatics Resources [![GitHub Super-Linter](https://github.com/PrabhatBara/bioinformatics_resources/actions/workflows/linter.yml/badge.svg)](https://github.com/PrabhatBara/bioinformatics_resources/actions/workflows/linter.yml) [![Generate TOC](https://github.com/PrabhatBara/bioinformatics_resources/actions/workflows/toc.yml/badge.svg)](https://github.com/PrabhatBara/bioinformatics_resources/actions/workflows/toc.yml)
 
 > Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. It is a new emerging discipline that combines mathematics, information science, and biology and helps answer biological questions — [ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780123749840001558)
 
