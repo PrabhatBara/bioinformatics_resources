@@ -4,6 +4,16 @@
 
 This reposition contains a curated list of Bioinformatics software, resources, libraries, databases and tutorials that can help you in answering your question. You can use this as a central point of reference. Please feel free to [contribute](CONTRIBUTING.md)!
 
+### Table Of Contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Package suites](#package-suites)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Package suites
 
 Package suites gather software packages and installation tools for specific languages or platforms. We have some for bioinformatics software.
