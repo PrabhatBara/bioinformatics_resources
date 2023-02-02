@@ -11,6 +11,13 @@ This reposition contains a curated list of Bioinformatics software, resources, l
 **Table of Contents**
 
 - [Package suites](#package-suites)
+- [Data Tools](#data-tools)
+  - [Downloading](#downloading)
+  - [Compressing](#compressing)
+- [Data Processing](#data-processing)
+  - [Command Line Utilities](#command-line-utilities)
+- [Next Generation Sequencing](#next-generation-sequencing)
+  - [Workflow Managers](#workflow-managers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
