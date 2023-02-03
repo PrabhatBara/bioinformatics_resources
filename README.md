@@ -18,6 +18,8 @@ This reposition contains a curated list of Bioinformatics software, resources, l
   - [Command Line Utilities](#command-line-utilities)
 - [Next Generation Sequencing](#next-generation-sequencing)
   - [Workflow Managers](#workflow-managers)
+  - [Pipelines](#pipelines)
+- [Databases](#databases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -82,3 +84,42 @@ Package suites gather software packages and installation tools for specific lang
 - **[SeqWare](https://github.com/SeqWare/seqware)** - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/21210981) | [web](https://seqware.github.io) ]
 - **[Snakemake](https://bitbucket.org/snakemake)** - A workflow management system in Python that aims to reduce the complexity of creating workflows by providing a fast and comfortable execution environment. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29788404) | [web](https://snakemake.readthedocs.io) ]
 - **[Workflow Descriptor Language](https://github.com/broadinstitute/wdl)** - Workflow standard developed by the Broad. [ [web](https://software.broadinstitute.org/wdl) ]
+
+### Pipelines
+
+- **[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)** - A list of pipeline resources.
+- **[Bactopia](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. [ [web](https://bactopia.github.io/) ]
+- **[Bacannot](https://github.com/fmalmeida/bacannot)** - A generic but comprehensive bacterial annotation pipeline, built with Nextflow, with nice graphical options for investigating results. [ [web](https://bacannot.readthedocs.io/en/latest/?badge=latest) ]
+- **[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)** - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ [web](https://bcbio-nextgen.readthedocs.io) ]
+- **[R-Peridot](https://github.com/pentalpha/r-peridot)** - Customizable pipeline for differential expression analysis with an intuitive GUI. [ [web](http://www.bioinformatics-brazil.org/r-peridot) ]
+- **[ngs-preprocess](https://github.com/fmalmeida/ngs-preprocess)** - A pipeline for preprocessing short and long sequencing reads, built with Nextflow. [ [web](https://ngs-preprocess.readthedocs.io/en/latest/?badge=latest) ]
+- **[Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow)** - A curated list of Nextflow pipelines, tutorials and resources. [[web](https://github.com/nextflow-io/awesome-nextflow)]
+
+## Databases
+
+- **[Pan-UkBioBank GWAS](https://pan.ukbb.broadinstitute.org/)** - Multi-ancestry analysis of 7,228 phenotypes using a generalized mixed model association testing framework, spanning 16,131 genome-wide association studies reporting GWAS summary Statistics. [[web](https://pan.ukbb.broadinstitute.org/)]
+- **[FinnGen- BioBank](https://www.finngen.fi/en/access_results)** - FinnGen is a large public-private partnership aiming to collect and analyse genome and health data from 500,000 Finnish biobank participants. Reporting GWAS summary data for Free Access [[web](https://www.finngen.fi/en)]
+- **[GEO- Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)** - GEO is a public functional genomics data repository supporting MIAME-compliant data [[web](https://www.ncbi.nlm.nih.gov/geo/summary/)]. Some repositories hosting consistently processed GEO Data
+
+  -**[DEE2- Digital Expression Explorer](https://dee2.io/)** - Digital Expression Explorer 2 (DEE2) is a repository of uniformly processed RNA-seq data mined from public data obtained from NCBI Sequence Read Archive. [[web](https://dee2.io/)]
+  - **[ARCHS4- Massive Mining of Publicly Available RNA-seq Data from Human and Mouse]()** - All RNA-seq and ChIP-seq sample and signature search (ARCHS4) is a resource that provides access to gene and transcript counts uniformly processed from all human and mouse RNA-seq experiments from the Gene Expression Omnibus (GEO) and the Sequence Read Archive (SRA).[[web](https://maayanlab.cloud/archs4/)]
+- **[ArrayExpress - Functional Genomics Data](https://www.ebi.ac.uk/biostudies/arrayexpress)** - The functional genomics data collection (ArrayExpress), stores data from high-throughput functional genomics experiments, and provides data for reuse to the research community. [[web](https://www.ebi.ac.uk/biostudies/arrayexpress)]
+- **[Expression Atlas](https://www.ebi.ac.uk/gxa/home)** - Expression Atlas is an open science resource that gives users a powerful way to find information about gene and protein expression [[web](https://www.ebi.ac.uk/gxa/home)]
+- **[LINCS-Library of Integrated Network-Based Cellular Signatures](https://lincsproject.org/)** - Gene expression profiles that occur when cells(cancer cell lines) are exposed to a variety of perturbing agents Drugs and iRNA. [[web](https://lincsproject.org/)]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
+- **[]()** - [[]()]
