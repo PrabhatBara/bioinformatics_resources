@@ -18,6 +18,8 @@ This reposition contains a curated list of Bioinformatics software, resources, l
   - [Command Line Utilities](#command-line-utilities)
 - [Next Generation Sequencing](#next-generation-sequencing)
   - [Workflow Managers](#workflow-managers)
+  - [Pipelines](#pipelines)
+- [Databases](#databases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
