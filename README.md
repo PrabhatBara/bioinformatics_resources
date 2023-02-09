@@ -20,6 +20,20 @@ This repository contains a curated list of Bioinformatics software, resources, l
   - [Workflow Managers](#workflow-managers)
   - [Pipelines](#pipelines)
 - [Databases](#databases)
+  - [Sequence Processing](#sequence-processing)
+  - [Data Analysis](#data-analysis)
+  - [Sequence Alignment](#sequence-alignment)
+    - [Pairwise](#pairwise)
+    - [Multiple Sequence Alignment](#multiple-sequence-alignment)
+    - [Clustering](#clustering)
+  - [Quantification](#quantification)
+  - [Variant Calling](#variant-calling)
+    - [Structural variant callers](#structural-variant-callers)
+  - [BAM File Utilities](#bam-file-utilities)
+  - [VCF File Utilities](#vcf-file-utilities)
+  - [GFF BED File Utilities](#gff-bed-file-utilities)
+  - [Variant Simulation](#variant-simulation)
+  - [Variant Prediction/Annotation](#variant-predictionannotation)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
