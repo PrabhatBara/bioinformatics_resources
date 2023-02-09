@@ -2,7 +2,7 @@
 
 > Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. It is a new emerging discipline that combines mathematics, information science, and biology and helps answer biological questions — [ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780123749840001558)
 
-This reposition contains a curated list of Bioinformatics software, resources, libraries, databases and tutorials that can help you in answering your question. You can use this as a central point of reference. Please feel free to [contribute](CONTRIBUTING.md)!
+This repository contains a curated list of Bioinformatics software, resources, libraries, databases and tutorials that can help you in answering your question. You can use this as a central point of reference. Please feel free to [contribute](CONTRIBUTING.md)!
 
 ### Table Of Contents
 
@@ -106,13 +106,13 @@ Package suites gather software packages and installation tools for specific lang
 - **[ArrayExpress - Functional Genomics Data](https://www.ebi.ac.uk/biostudies/arrayexpress)** - The functional genomics data collection (ArrayExpress), stores data from high-throughput functional genomics experiments, and provides data for reuse to the research community. [[web](https://www.ebi.ac.uk/biostudies/arrayexpress)]
 - **[Expression Atlas](https://www.ebi.ac.uk/gxa/home)** - Expression Atlas is an open science resource that gives users a powerful way to find information about gene and protein expression [[web](https://www.ebi.ac.uk/gxa/home)]
 - **[LINCS-Library of Integrated Network-Based Cellular Signatures](https://lincsproject.org/)** - Gene expression profiles that occur when cells(cancer cell lines) are exposed to a variety of perturbing agents Drugs and iRNA. [[web](https://lincsproject.org/)]
-- **[]()** - [[]()]
-- **[]()** - [[]()]
-- **[]()** - [[]()]
-- **[]()** - [[]()]
-- **[]()** - [[]()]
-- **[]()** - [[]()]
-- **[]()** - [[]()]
+- **[DEPMAP](https://depmap.org/portal/depmap/)** - Profiles of hundreds of cancer cell line models for genomic information and sensitivity to genetic and small molecule perturbation [[web](https://depmap.org/portal/depmap/)]
+- **[CCLE](https://sites.broadinstitute.org/ccle/)** - Large-scale genetic characterization of ~1000 cancer cell lines[[web](https://sites.broadinstitute.org/ccle/)]
+- **[TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)** - molecularly characterized 20,000 primary cancer and matched normal samples spanning 33 cancer types. [[web](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)]
+- **[COSMIC db](https://cancer.sanger.ac.uk/cosmic)** - Catalogue Of Somatic Mutations In Cancer, is the world's largest and most comprehensive resource for exploring the impact of somatic mutations in human cancer. [[web](https://cancer.sanger.ac.uk/cosmic)]
+- **[ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)** - Public archive of reports of the relationships among human variations and phenotypes, with supporting evidence [[web](https://www.ncbi.nlm.nih.gov/clinvar/)]
+- **[dbSNP](https://www.ncbi.nlm.nih.gov/snp/)** - Public-domain archive for a broad collection of simple genetic polymorphisms[[web](https://www.ncbi.nlm.nih.gov/snp/)]
+- **[gnomAD](https://gnomad.broadinstitute.org/)** - Aggregated and harmonized exome and genome sequencing data from a wide variety of large-scale sequencing projects[[web](https://gnomad.broadinstitute.org/)]
 - **[]()** - [[]()]
 - **[]()** - [[]()]
 - **[]()** - [[]()]
